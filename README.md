@@ -37,4 +37,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TTEJlbMEHb&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TTEJlbMEHb&hide_progress=true&card_width=500&title_size=40&text_size=30)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TTEJlbMEHb)
