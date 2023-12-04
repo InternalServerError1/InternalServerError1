@@ -1,3 +1,4 @@
+# TTEJlbMEHb.github.io
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Depress1on_is_my_profession)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vlad_ment_c_cby) 
 
@@ -36,4 +37,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TTEJlbMEHb&show_icons=true)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TTEJlbMEHb)(https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TTEJlbMEHb)
