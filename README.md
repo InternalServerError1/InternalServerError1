@@ -31,6 +31,8 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 >
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TTEJlbMEHb)
+>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TTEJlbMEHb&show_icons=true)
->![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TTEJlbMEHb)
->![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TTEJlbMEHb)
+>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TTEJlbMEHb)
