@@ -1,14 +1,21 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Depress1on_is_my_profession)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vlad_ment_c_cby) 
 
-### :woman_technologist: About Me :
-I'm a programmer and video maker!
+### 👋 I'm Vlad! I'm a 19-year-old student currently enrolled in Ivan Franko National University of Lviv, where I'm pursuing my studies in the Faculty of Applied Mathematics and Informatics with a specialization in Computer Science. I'm currently on the 3rd year of my course.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+### 🎓 My goal is to evolve into a proficient Fullstack Developer, constantly improving my skills. I'm engaged in mastering ASP.NET Core along with Entity Framework and databases.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I recording video about programming and learning programming.
+## Technology stack
+- ### Server
+  - ASP.NET MVC Framework
+  - Entity Framework
+  - Microsoft SQL Server
+  - PostgreSQL
+- ### Client
+  - Razor
+  - HTML
+  - CSS
+  - JS/JQuery
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
