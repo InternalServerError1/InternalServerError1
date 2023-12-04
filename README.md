@@ -1,11 +1,5 @@
-<div id="badges">
-  <a href="https://t.me/ITHomester">
-    [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Depress1on_is_my_profession)
-  </a>
-  <a href="https://www.youtube.com/@ITHomester">
-    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vlad_ment_c_cby) 
-  </a>
-</div>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Depress1on_is_my_profession)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vlad_ment_c_cby) 
 
 ### :woman_technologist: About Me :
 I'm a programmer and video maker!
