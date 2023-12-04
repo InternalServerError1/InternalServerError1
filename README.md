@@ -6,6 +6,7 @@
 >
 ### 🎓 My goal is to evolve into a proficient Fullstack Developer, constantly mproving my skills. I'm engaged in mastering ASP.NET Core along with Entity Framework and databases 
 >
+>
 ## Technology stack
 - ### Server
   - ASP.NET MVC Framework
@@ -29,7 +30,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
+>
 ## Stats
 >
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TTEJlbMEHb)
