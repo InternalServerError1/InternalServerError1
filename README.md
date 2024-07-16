@@ -25,8 +25,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=InternalServerError1)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=InternalServerError5XX)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=InternalServerError1&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=InternalServerError5XX&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InternalServerError1&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InternalServerError5XX&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
